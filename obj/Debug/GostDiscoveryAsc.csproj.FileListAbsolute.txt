@@ -1,0 +1,9 @@
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\bin\Debug\GostDiscoveryAsc.exe.config
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\bin\Debug\GostDiscoveryAsc.exe
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\bin\Debug\GostDiscoveryAsc.pdb
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\obj\Debug\GostDiscoveryAsc.exe
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\obj\Debug\GostDiscoveryAsc.pdb
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\bin\Debug\GostDiscoveryAsc.exe.manifest
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\bin\Debug\GostDiscoveryAsc.application
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\obj\Debug\GostDiscoveryAsc.exe.manifest
+C:\Users\THE MONSTER\source\repos\GostDiscoveryAsc\obj\Debug\GostDiscoveryAsc.application
